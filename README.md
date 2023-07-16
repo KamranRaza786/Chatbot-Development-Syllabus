@@ -156,4 +156,4 @@ Fiverr and Upwork (how to do freelancing is not covered in this course)
 
 <br><hr>
 
-<h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>
+<h4 align='center'>Readme by <a href='https://github.com/KamranRaza786'>Kamran Raza</a></h4>
